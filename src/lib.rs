@@ -9,6 +9,22 @@ pub trait One {
     fn one() -> Self;
 }
 
+pub trait Integer { }
+impl Integer for u8 { }
+impl Integer for i8 { }
+impl Integer for u16 { }
+impl Integer for i16 { }
+impl Integer for u32 { }
+impl Integer for i32 { }
+impl Integer for u64 { }
+impl Integer for i64 { }
+impl Integer for usize { }
+impl Integer for isize { }
+
+pub trait Float { }
+impl Float for f32 { }
+impl Float for f64 { }
+
 impl Zero for u8 { fn zero() -> u8 { 0 } }
 impl Zero for i8 { fn zero() -> i8 { 0 } }
 impl Zero for u16 { fn zero() -> u16 { 0 } }
