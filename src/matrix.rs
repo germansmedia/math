@@ -1,5 +1,6 @@
+// (C) Copyright 2020, by Germans Media Technology & Services
 // Math
-// by Desmond Germans
+// 2x2, 3x3 and 4x4 matrices 
 
 use std::{cmp,fmt,ops};
 use crate::*;

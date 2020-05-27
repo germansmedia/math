@@ -1,5 +1,6 @@
+// (C) Copyright 2020, by Germans Media Technology & Services
 // Math
-// by Desmond Germans
+// 2D, 3D and 4D multivectors
 
 use std::{cmp,fmt,ops};
 use crate::*;

@@ -2,6 +2,9 @@
 
 All the math you ever wanted.
 
+by Desmond Germans, Ph.D
+Germans Media Technology & Services
+
 ## Design Philosophy
 
 - Bundle together coordinates for various purposes as much as possible.

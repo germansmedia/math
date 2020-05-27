@@ -1,5 +1,6 @@
+// (C) Copyright 2020, by Germans Media Technology & Services
 // Math
-// by Desmond Germans
+// Complex Numbers
 
 use std::{cmp,fmt,ops};
 use crate::*;

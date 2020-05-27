@@ -1,5 +1,6 @@
-// Math
-// by Desmond Germans
+// (C) Copyright 2020, by Germans Media Technology & Services
+// Image
+// Euler angles (yaw-pitch-bank) structures
 
 use std::{cmp,fmt,ops};
 use crate::*;
